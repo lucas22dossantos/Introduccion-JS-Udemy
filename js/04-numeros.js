@@ -84,7 +84,7 @@ console.log(numeroAletorio);
 
 // Calcula el área de un círculo con un radio dado (usa Math.PI).
 let radio = 5;
-console.log(Math.PI * radio * radio); //formulara Math.PI * radio * radio
+console.log(Math.PI * radio * radio); //formula Math.PI * radio * radio
 
 // Escribe un programa que diga si un número es par o impar.
 let numeroParImpar = 7;
