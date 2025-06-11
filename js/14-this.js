@@ -155,7 +155,7 @@ console.log("---- ejercicio 5 ----");
 // Usa .apply() para llamar la función con un objeto y pasar un arreglo con saludo y emoji.
 
 function presentarseConParametros(saludo, emoji) {
-  console.log(`${saludo}` + "soy " + `${this.nombre}` + ` ${emoji}`);
+  console.log(`${saludo}` + " soy " + `${this.nombre}` + ` ${emoji}`);
 }
 
 let tercerNombre = { nombre: "Valeria" };
